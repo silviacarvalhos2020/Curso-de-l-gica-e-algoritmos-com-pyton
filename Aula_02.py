@@ -7,4 +7,5 @@ letra ='a'
 palavra="amor"
 inteira = 7
 outraInteira = 9
+soma = inteira +outrainteira
 print(inteira)
